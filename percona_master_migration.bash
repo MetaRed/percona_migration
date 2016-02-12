@@ -135,7 +135,7 @@ if [ ! $? -eq 0 ]; then
 fi
 
 #########################
- DATABASE CUTOVER LOGIC #
+# DATABASE CUTOVER LOGIC 
 #########################
 # Remove comments to begin
 
